@@ -1,6 +1,6 @@
 #Rowan Converse
 #10/12/2022
-#Pull camera info from Zooniverse
+#Pull camera info from Zooniverse: IMPORTANT, this only works if subject set correspond to individual cameras (ie, were initially uploaded in separate sets)
 #This script requires two inputs: the subject export and the COCO format annotations pulled from Zooniverse (see Drones4Ducks /utils/Zooniverse2COCO for example)
 
 import json 
